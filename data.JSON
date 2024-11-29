@@ -1,0 +1,30 @@
+[
+    { "question": "Who was the first computer programmer?", 
+        "options": ["Alan Turing", "Ingvar Kamprad", "Grace Hopper", "Ada Lovelace"], 
+        "answer": "Ada Lovelace"},
+
+    { "question": "What does WWW stand for?", 
+        "options": ["World Website Web", "World Wide Web", "Website Winner Web", "Webpage Website Web"], 
+        "answer": "World Wide Web"},
+
+    { "question": "Which programming language is best for AI?", 
+        "options": ["C++ & Python", "JavaScript", "Html & CSS & JavaScript", "Java"], 
+        "answer": "C++ & Python"},
+
+    { "question": "What do people assosiate coding with?", 
+        "options": ["Young nerds that never showers", "Older men", "Calm females", 
+                    "People with office clothes"], 
+        "answer": "Young nerds that never showers"},
+
+    { "question": "Which teacher sends the best Gifs on Discord?", 
+        "options": ["Rozze", "Markus", "Sebbe", "Sibar"], 
+        "answer": "Sebbe"},
+
+    { "question": "What necessity is needed to stay awake while coding?", 
+        "options": ["Food", "Coffee", "Cakes", "Soda"], 
+        "answer": "Coffee"},
+
+    { "question": "What qualities are needed to be a good coder?", 
+        "options": ["Fast runner", "Funny character", "Kindhearted", "Good analyzer"], 
+        "answer": "Good analyzer"}
+]
