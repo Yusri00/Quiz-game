@@ -99,7 +99,7 @@ function showAnswer(event) {
   // Add a small delay before moving to the next question
   setTimeout(() => {
     moveToNextQuestion();
-  }, 2000); // Delay of 1 second for visual feedback
+  }, 2000); // Delay of 2 second for visual feedback
 }
 
 function moveToNextQuestion() {
