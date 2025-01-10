@@ -122,3 +122,26 @@ body {
     cursor: pointer;
     background-color: rgb(182, 237, 72);
 }
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    #root {
+        padding: 10px;
+    }
+    .question-header {
+        font-size: clamp(20px, 3.5vw, 30px);
+    }
+    .complete-header {
+        font-size: clamp(24px, 4vw, 40px);
+    }
+    .options-container {
+        grid-template-columns: 1fr;
+    }
+    .option {
+        font-size: 16px;
+        padding: 10px;
+    }
+    #timer-container {
+        font-size: 18px;
+    }
+}
